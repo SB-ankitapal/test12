@@ -22,7 +22,7 @@ paths:
       tags: []
       responses:
         '200':
-          description: User Found
+          description: User Found123
           content:
             application/json:
               schema:
