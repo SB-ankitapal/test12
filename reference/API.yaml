@@ -94,7 +94,7 @@ paths:
                 value:
                   lastName: Baker
                   dateOfBirth: '1985-10-02'
-        description: Patch user properties to update.
+        description: Patch user properties to update.123
       x-stoplight:
         id: 9fx9tvoz1xx7a
   /user:
